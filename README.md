@@ -1,2 +1,0 @@
-# Powerlifting-App
-an app
